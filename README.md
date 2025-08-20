@@ -1,4 +1,4 @@
-- 👋 Hi, I’m August Ta-Goetz @agathata
+- 👋 Hi, I’m August Ta-Goetz @august-avocad
 - 👀 I’m interested in programming for social good
 - 🌱 I’m currently learning AR and VR development
 - 💞️ I’m looking to collaborate on 3D modeling
